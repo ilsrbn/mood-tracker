@@ -1,7 +1,7 @@
 # README
 
 ## About
-This is Mood tracker app built with [Wails Framewor](https://wails.io/). Purpose is to give your mood a rating from 1 to 10 once a day and to see statistics above.
+This is Desktop Mood tracker app built with [Wails Framewor](https://wails.io/). Purpose is to give your mood a rating from 1 to 10 once a day and to see statistics above.
 
 ## Screenshots
 #### Initial empty layout
