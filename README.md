@@ -13,9 +13,15 @@ This is Mood tracker app built with [Wails Framewor](https://wails.io/). Purpose
 ## Stack
 [Golang](https://go.dev/) on backend, [SQlite](https://www.sqlite.org/index.html) as Database solution and [Vue 3](https://vuejs.org/] on frontend side.
 
+## Installation
+1. Pull repo.
+2. Build using `wails build` (take a look at their installation guide)
+3. Executable binary will be at `./build/bin/mood-tracker`
+   
 ## Extra details
-
 It's developed and tested only within Linux Mint 21.2 x86_64. App's data stored inside of `~/.cache/mood-tracker/` directory.
+
+Domain-driven-design was chosen as folder structure and architecture.
 
 [Kanagawa](https://github.com/rebelot/kanagawa.nvim) used as colorscheme.
 
