@@ -11,7 +11,7 @@ This is Mood tracker app built with [Wails Framewor](https://wails.io/). Purpose
 ![Filled up](/assets/rated-day-with-chart.webp)
 
 ## Stack
-[Golang](https://go.dev/) on backend, [SQlite](https://www.sqlite.org/index.html) as Database solution and [Vue 3](https://vuejs.org/] on frontend side.
+[Golang](https://go.dev/) on backend, [SQlite](https://www.sqlite.org/index.html) as Database solution and [Vue 3](https://vuejs.org/) on frontend side.
 
 ## Installation
 1. Pull repo.
